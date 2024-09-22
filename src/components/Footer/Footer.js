@@ -2,7 +2,7 @@ import React from 'react';
 import './Footer.css';
 import facebookLogo from '../../images/facebook-logo.svg';
 import twitterLogo from '../../images/twitter-logo.svg';
-import instagramLogo from '../../images/twitter-logo.svg';
+import instagramLogo from '../../images/instagram-logo.svg';
 
 
 function Footer() {
